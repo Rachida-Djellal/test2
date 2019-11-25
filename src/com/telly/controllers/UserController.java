@@ -38,9 +38,7 @@ public class UserController {
 		return "loggedout";
 	}
 	
-	
 
-	
 	
 
 }
